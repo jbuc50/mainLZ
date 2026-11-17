@@ -22,7 +22,7 @@
       "drmLicenseKey": "1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe",
       "tabs": [
         { "name": "Main Stream", "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8" },
-        { "name": "Stream 1",       "url": "http://103.114.11.37:8081/ZEE-Bangla/index.m3u8?token=sboxcast" },
+        { "name": "Stream 1",       "url": "https://toffee.sm-monirul-islam-rs.workers.dev/zee_bangla/index.m3u8" },
         { "name": "Stream 2",       "url": "https://tvsen6.aynaott.com/ZeeBangla/index.m3u8" },
         { "name": "Stream 3",       "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8" },
         { "name": "Stream 4",       "url": "https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8" },
@@ -129,7 +129,7 @@
       "group": "indian Bangla",
       "tabs": [
         { "name": "Main Stream", "url": "http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBnCinema/index.m3u8" },
-        { "name": "Stream 1",       "url": "http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8" },
+        { "name": "Stream 1",       "url": "https://toffee.sm-monirul-islam-rs.workers.dev/zee_bangla_cinema/index.m3u8" },
         { "name": "Stream 2",       "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8" },
         { "name": "Stream 3",       "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8" },
         { "name": "Stream 4",       "url": "https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/index.m3u8" },
@@ -152,10 +152,11 @@
       "logo": "https://i.postimg.cc/KzXPS4hR/SONY-YAY.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://filex.me:8080/live/03098001921RDB/03098001921RDB/911302.m3u8" },
-        { "name": "Stream 1",   "url": "https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8" }
+        { "name": "Main Stream", "url": "https://techandeat.online/sliv/stream.m3u8?id=1000001971" },
+        { "name": "Stream 1",   "url": "http://filex.me:8080/live/03098001921RDB/03098001921RDB/911302.m3u8" }
       ],
-      "autoPlayBackup": true
+      "autoPlayBackup": true,
+      "referer": "https://techandeat.online"
     },
     {
       "name": "Nick",
@@ -183,7 +184,7 @@
       "logo": "https://i.postimg.cc/qR88k0pB/DURANTA-TV.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://103.135.253.32:8080/DORONTU-TV/index.m3u8" },
+        { "name": "Main Stream", "url": "http://bd.sm-monirul.xyz/live/duronto/index.m3u8" },
         { "name": "Stream 1",   "url": "http://103.114.11.37:8081/Duronto/index.m3u8?token=sboxcast" },
          {"name": "Stream 2",   "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=duranta_tv&e=.m3u8" },
         { "name": "Stream 3",   "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/433.ts" }
@@ -271,7 +272,7 @@
       "logo": "https://i.postimg.cc/XN8BHttW/DISCOVERY-HD.png",
       "group": "Documentary",
       "tabs": [
-        { "name": "Main Stream",   "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8" },
+        { "name": "Main Stream",   "url": "http://bd.sm-monirul.xyz/live/discover_bangla/index.m3u8" },
         { "name": "Stream bangla", "url": "http://live.balajibroadband.com:3500/live/573.m3u8" },
         { "name": "Stream Hindi",       "url": "http://live.balajibroadband.com:3500/live/575.m3u8" },
         {"name": "Stream 1",   "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=discovery_hd&e=.m3u8" }
