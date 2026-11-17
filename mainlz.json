@@ -443,7 +443,7 @@
       "group": "Movies",
       "tabs": [
         { "name": "Main Stream", "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8" },
-        { "name": "Stream 1", "url": "https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8" },
+        { "name": "Stream 1", "url": "https://akash-go.sm-iptv-monirul-islam.workers.dev/z_cinama_hd/index.m3u8" },
        { "name": "Stream 2", "url": "https://j6nfugukcl.gpcdn.net/tile_5/master.m3u8" },
         { "name": "Stream 3",   "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8" }
       ],
@@ -454,7 +454,7 @@
   "logo": "https://i.postimg.cc/52SzwQF1/20251222_220548.png",
   "group": "Movies",
   "tabs": [
-    { "name": "Main Stream", "url": "https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8" },
+    { "name": "Main Stream", "url": "https://toffee.sm-monirul-islam-rs.workers.dev/zee_bollywood/index.m3u8" },
     { "name": "Stream 1", "url": "https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8" }
   ],
   "autoPlayBackup": true
@@ -466,8 +466,20 @@
   "drmType": "clearkey",
   "drmLicenseKey": "de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6",
   "tabs": [
-    { "name": "Main Stream", "url": "https://toffee.sm-monirul-islam-rs.workers.dev/pictures_hd/index.m3u8" },
+    { "name": "Main Stream", "url": "http://bd.sm-monirul.xyz/live/and_picture/index.m3u8" },
     { "name": "Stream 1", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd" }
+  ],
+  "autoPlayBackup": true
+},
+  {
+  "name": "& Picture",
+  "logo": "https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",
+  "group": "Movies",
+  "drmType": "clearkey",
+  "drmLicenseKey": "de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6",
+  "tabs": [
+    { "name": "Main Stream", "url": "https://toffee.sm-monirul-islam-rs.workers.dev/pictures_hd/index.m3u8" },
+    { "name": "Stream 1", "url": "" }
   ],
   "autoPlayBackup": true
 },
@@ -477,6 +489,15 @@
       "group": "Movies",
       "tabs": [
         { "name": "Main Stream", "url": "https://livetv.shamon-cable.net:8443/StarGold/tracks-v1a1/mono.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+     {
+      "name": "star Gold 2",
+      "logo": "https://i.postimg.cc/Dyyv0nZF/STAR-GOLD-HD.png",
+      "group": "Movies",
+      "tabs": [
+        { "name": "Main Stream", "url": "https://sm-monirul.top/ultra/live.php?id=star_gold_2&sm=.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -507,7 +528,16 @@
       "logo": "https://i.postimg.cc/CLLh5SKP/STAR-MOVIES-HD.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "http://103.135.253.32:8080/STAR-MOVIES/index.m3u8" }
+        { "name": "Main Stream", "url": "http://bd.sm-monirul.xyz/live/star_movie/index.m3u8" }
+      ],
+      "autoPlayBackup": true
+    },
+    {
+      "name": "star movie select",
+      "logo": "https://i.postimg.cc/CLLh5SKP/STAR-MOVIES-HD.png",
+      "group": "Movies",
+      "tabs": [
+        { "name": "Main Stream", "url": "http://bd.sm-monirul.xyz/live/star_movie_select/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
