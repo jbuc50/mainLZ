@@ -39,10 +39,10 @@
       "logo": "https://i.postimg.cc/PxL5LXZp/COLORS-BANGLA-HD-(1).jpg",
       "group": "indian Bangla",
       "tabs": [
-        { "name": "Main Stream", "url": "http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8" },
+        { "name": "Main Stream", "url": "https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8" },
         { "name": "Stream 1",    "url": "https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8" },
         { "name": "Stream 2",  "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8" },
-        { "name": "Stream 3",  "url": "https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8" }
+        { "name": "Stream 3",  "url": "" }
       ],
       "autoPlayBackup": true
     },
