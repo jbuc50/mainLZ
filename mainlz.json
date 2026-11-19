@@ -163,7 +163,7 @@
       "logo": "https://i.postimg.cc/Jnbb1mRR/NICK.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Stream BD", "url": "http://103.135.253.32:8080/NICK/index.m3u8" },
+        { "name": "Stream BD", "url": "http://bd.sm-monirul.xyz/live/nick_bangla/index.m3u8" },
         { "name": "Stream 1", "url": "http://live.balajibroadband.com:3500/live/1341.m3u8" },
         { "name": "Stream 2", "url": "http://live.balajibroadband.com:3500/live/545.m3u8" }
       ],
@@ -196,7 +196,7 @@
       "logo": "https://i.postimg.cc/d188qvJV/POGO-(1).png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8" }
+        { "name": "Main Stream", "url": "https://toffee.sm-monirul-islam-rs.workers.dev/pogo/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -223,7 +223,7 @@
       "logo": "https://i.postimg.cc/DZqq2F7h/SUPER-HUNGAMA.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://iptv.prosto.tv:7000/ch72/video.m3u8" }
+        { "name": "Main Stream", "url": "http://sm-monirul.xyz/@sm_iptv/live.php?id=super_hungama&sm=.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -232,7 +232,7 @@
       "logo": "https://i.postimg.cc/qRfsVgHg/HUNGAMA.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "http://103.135.253.32:8080/HUNGAMA/index.m3u8" }
+        { "name": "Main Stream", "url": "http://sm-monirul.xyz/@sm_iptv/live.php?id=hungama&sm=.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -253,7 +253,7 @@
       "logo": "https://i.postimg.cc/85W94CVz/Discovery-Kids-Hin1.png",
       "group": "Kids",
       "tabs": [
-        { "name": "Main Stream", "url": "https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8" },
+        { "name": "Main Stream", "url": "https://toffee.sm-monirul-islam-rs.workers.dev/discovery_kids/index.m3u8" },
         { "name": "Stream 1", "url": "http://live.balajibroadband.com:3500/live/554.m3u8" }
       ],
       "autoPlayBackup": true
@@ -284,7 +284,7 @@
       "logo": "https://i.postimg.cc/FFZkWwwQ/NATGEO-WILD-HD.png",
       "group": "Documentary",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/NATGEO.WILD.HD/tracks-v1a1/mono.m3u8" }
+        { "name": "Main Stream", "url": "http://bd.sm-monirul.xyz/live/nation_geo_wild/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -293,7 +293,7 @@
       "logo": "https://i.postimg.cc/QNbK4vvh/ANIMAL-PLANET-HD.png",
       "group": "Documentary",
       "tabs": [
-        { "name": "Stream 1",   "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8" },
+        { "name": "Stream 1",   "url": "https://toffee.sm-monirul-islam-rs.workers.dev/animal_planet_hd/index.m3u8" },
         { "name": "Stream 2",   "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8" },
          { "name": "Stream 3",   "url": "http://live.balajibroadband.com:3500/live/566.m3u8" },
         { "name": "Stream 4", "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/5249.ts" }
@@ -305,7 +305,7 @@
       "logo": "https://i.postimg.cc/wM0t1sDF/NATGEO-HD.png",
       "group": "Documentary",
       "tabs": [
-        { "name": "Main Stream", "url": "https://app.uckingcrazy1.workers.dev/api/play/National%20Geographic.m3u8" }
+        { "name": "Main Stream", "url": "http://bd.sm-monirul.xyz/live/national_geo/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -314,7 +314,7 @@
       "logo": "https://i.postimg.cc/445HLjjC/LOVE-NATURE.png",
       "group": "Documentary",
       "tabs": [
-        { "name": "Main Stream", "url": "http://198.195.239.50:8095/LOVE.NATURE/tracks-v1a1/mono.m3u8" }
+        { "name": "Main Stream", "url": "http://27.124.71.27/Love_Nature/index.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -324,7 +324,7 @@
       "group": "Documentary",
       "tabs": [
         { "name": "Main Stream", "url": "http://live.balajibroadband.com:3500/live/562.m3u8" },
-         { "name": "Stream 1",   "url": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/20622.ts" }
+         { "name": "Stream 1",   "url": "https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8" }
       ],
       "autoPlayBackup": true
     },
