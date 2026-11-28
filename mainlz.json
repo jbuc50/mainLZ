@@ -185,7 +185,7 @@
       "group": "Kids",
       "tabs": [
         { "name": "Main Stream", "url": "http://bd.sm-monirul.xyz/live/duronto/index.m3u8" },
-        { "name": "Stream 1",   "url": "http://103.114.11.37:8081/Duronto/index.m3u8?token=sboxcast" },
+        { "name": "Stream 1",   "url": "http://103.114.11.37:8081/Duronto/index.m3u8?token=sbox" },
          {"name": "Stream 2",   "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=duranta_tv&e=.m3u8" },
         { "name": "Stream 3",   "url": "http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/433.ts" }
       ],
@@ -274,8 +274,8 @@
       "tabs": [
         { "name": "Main Stream",   "url": "http://bd.sm-monirul.xyz/live/discover_bangla/index.m3u8" },
         { "name": "Stream bangla", "url": "http://live.balajibroadband.com:3500/live/573.m3u8" },
-        { "name": "Stream Hindi",       "url": "http://live.balajibroadband.com:3500/live/575.m3u8" },
-        {"name": "Stream 1",   "url": "https://sm-monirul.xyz/@monirul_Islam_SM/stream.php?id=discovery_hd&e=.m3u8" }
+        { "name": "Stream Hindi",  "url": "http://live.balajibroadband.com:3500/live/575.m3u8" },
+        {"name": "Stream 1",   "url": "https://s3.itcnbd.live/server-12/stream/MjI.m3u8" }
       ],
       "autoPlayBackup": true
     },
@@ -442,7 +442,7 @@
       "logo": "https://i.postimg.cc/rFFVsMpb/ZEE-CINEMA-HD.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8" },
+        { "name": "Main Stream", "url": "https://toffee.sm-monirul-islam-rs.workers.dev/zee_cinema_hd/index.m3u8" },
         { "name": "Stream 1", "url": "https://akash-go.sm-iptv-monirul-islam.workers.dev/z_cinama_hd/index.m3u8" },
        { "name": "Stream 2", "url": "https://j6nfugukcl.gpcdn.net/tile_5/master.m3u8" },
         { "name": "Stream 3",   "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8" }
@@ -467,7 +467,8 @@
   "drmLicenseKey": "de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6",
   "tabs": [
     { "name": "Main Stream", "url": "http://bd.sm-monirul.xyz/live/and_picture/index.m3u8" },
-    { "name": "Stream 1", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd" }
+    { "name": "Stream 1", "url": "https://s3.itcnbd.live/server-12/stream/NQ.m3u8" },
+    { "name": "Stream 2", "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd" }
   ],
   "autoPlayBackup": true
 },
@@ -488,7 +489,8 @@
       "logo": "https://i.postimg.cc/Dyyv0nZF/STAR-GOLD-HD.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "https://mac.sm-monirul.top/mac_channel/star_gold_hd.m3u8" }
+        { "name": "Main Stream", "url": "https://mac.sm-monirul.top/mac_channel/star_gold_hd.m3u8" },
+        { "name": "Stream 1", "url": "http://31.42.176.223/live.ts?channelId=196&uid=5005&deviceMac=00:1A:79:8C:0C:E9" }
       ],
       "autoPlayBackup": true
     },
@@ -518,7 +520,7 @@
       "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png",
       "group": "Movies",
       "tabs": [
-        { "name": "Main Stream", "url": "https://mac.sm-monirul.top/mac_channel/star_gold_tri_hd.m3u8" },
+        { "name": "Main Stream", "url": "http://tv.cloudcdn.me:80/live.ts?channelId=215&uid=5005&deviceMac=00:1A:79:8C:0C:E9" },
         { "name": "Stream 1", "url": "http://filex.me:8080/live/03098001921RDB/03098001921RDB/911309.m3u8" }
       ],
       "autoPlayBackup": true
